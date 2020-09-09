@@ -1,3 +1,3 @@
 # xp-man
 xp-man
-Expense Manager
+Expense Manager.
